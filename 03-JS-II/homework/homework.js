@@ -14,7 +14,7 @@ function mayoriaDeEdad(edad) {
   if (persona >18) {
     return allowed
   } else { 
-    return not
+    return not;
   }
 }
   
